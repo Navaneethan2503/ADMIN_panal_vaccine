@@ -1,0 +1,18 @@
+body{
+	background: #ACB9FF;
+}
+
+.banner img{
+	align-items: bottom;
+	margin-top: 15%;
+	margin-left: 5px;
+}
+
+.banner1 h1{
+   color: #FFFFFF;
+   padding: 0px;
+   margin-left: 25%;
+   margin-top: 25px;
+   font-size: 75px;
+   font-weight: 80px;
+}
